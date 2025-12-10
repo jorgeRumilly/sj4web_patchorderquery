@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>sj4web_patchorderquery</name>
+    <displayName><![CDATA[SJ4WEB - Patch requ&ecirc;te commandes]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Optimisation du champ &quot;nouveau client&quot; dans la liste des commandes.]]></description>
+    <author><![CDATA[SJ4WEB.FR]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+</module>
